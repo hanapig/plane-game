@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+A:\Project\C\飞机大战\飞机大战\FileName.cpp(16,2): warning C4091: “typedef ”: 没有声明变量时忽略“posenemy”的左侧
+A:\Project\C\飞机大战\飞机大战\FileName.cpp(165,9): warning C4101: “enemtime”: 未引用的局部变量
+A:\Project\C\飞机大战\飞机大战\FileName.cpp(316,18): warning C4551: 缺少参数列表的函数调用
+A:\Project\C\飞机大战\飞机大战\FileName.cpp(293,6): warning C4102: “game_start”: 未引用的标签
+A:\Project\C\飞机大战\飞机大战\FileName.cpp(347,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  飞机大战.vcxproj -> A:\Project\C\飞机大战\x64\Debug\飞机大战.exe
